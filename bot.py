@@ -6,7 +6,7 @@ import os
 
 # ====== CONFIG ======
 TOKEN = "8600375363:AAGbDHQHvSX2ZTIwrk6XwZAhwcgZ9FI-2Po"
-CHANNEL = "@team_dev11_here"   # apna channel username
+CHANNEL = "@CHANNEL = "@team_dev1l_here""   # apna channel username
 
 bot = telebot.TeleBot(TOKEN)
 
